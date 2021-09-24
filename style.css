@@ -612,6 +612,10 @@ a {
     font-weight: 400;
 }
 
+label {
+    color: black;
+}
+
 .container {
     max-width: 1000px;
 }
@@ -739,12 +743,12 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color:black!important;
 }
 
 .ltc-white {
