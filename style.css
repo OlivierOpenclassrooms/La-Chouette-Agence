@@ -609,7 +609,6 @@ label,
 .btn,
 a {
     font-family: "helvetica";
-    font-weight: 400;
 }
 
 label {
@@ -651,11 +650,15 @@ p {
 .h1 {
     font-size: 20px;
     font-family: "Open Sans";
+    font-weight: bold;
+}
+
+.col-sm-12 h1 {
+    color: white !important;
 }
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -670,6 +673,8 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    color: black;
+    font-weight: bold;
 }
 
 h3 {
@@ -722,7 +727,8 @@ h4 {
 
 .bold-link {
     font-weight: 900;
-    text-decoration: underline!important;
+    color: black !important;
+    text-decoration: underline;
 }
 
 .bgc-white {
@@ -738,7 +744,8 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color:white!important;
+    font-weight: bold;
 }
 
 .btn-atomic-tangerine {
