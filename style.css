@@ -859,7 +859,7 @@ h4 {
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
     .page-container {
         overflow-x: hidden;
         position: relative;
@@ -1005,7 +1005,7 @@ h4 {
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
     .bloc-mob-center-text {
         text-align: center;
     }
@@ -1015,7 +1015,7 @@ h4 {
     }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 769px) {
     .site-navigation {
         position: absolute;
         top: 50%;
