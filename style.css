@@ -10,7 +10,7 @@ body {
 a,
 button {
     transition: all .3s ease-in-out;
-    outline: none!important;
+    outline: none !important;
 }
 
 a:hover {
@@ -649,7 +649,6 @@ label,
 .btn,
 a {
     font-family: "helvetica";
-    font-weight: 400;
     color: black !important;
 }
 
@@ -711,6 +710,7 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    font-weight: bold;
 }
 
 h3 {
